@@ -7,7 +7,7 @@ These are the following apps you need to include:
 - Feh
 - Compton
 - Zsh
-- Polybar
+- Polybar(Credit to huylenguyen on Github for Polybar config inspiration)
 - Cava
 - i3lock 
 - ttf-font-awesome
